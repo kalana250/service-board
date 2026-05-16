@@ -318,4 +318,4 @@ PATCH /api/jobs/:id
 ## 👤 Author
 
 Kalana Heshan
-[GitHub](https://github.com/kalana250)
+[LinkedIn](https://linkedin.com/in/kalana-heshan)
