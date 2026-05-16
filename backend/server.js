@@ -13,7 +13,7 @@ const app = express();
 // ─── CORS - allow localhost AND vercel ───────────────────────────────────────
 const allowedOrigins = [
   "http://localhost:3000",
-  // Add any other vercel preview URLs you have
+  "https://service-board-navy.vercel.app/"
 ];
 
 app.use(

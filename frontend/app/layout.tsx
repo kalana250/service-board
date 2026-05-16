@@ -4,7 +4,7 @@ import Navbar from "@/components/Navbar";
 import { AuthProvider } from "@/context/AuthContext";
 
 export const metadata: Metadata = {
-  title: "GlobalTNA Service Board",
+  title: "Service Board",
   description: "Post and manage home service requests",
 };
 
