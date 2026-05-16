@@ -7,7 +7,10 @@ and tradespeople can browse, update, and manage them.
 
 ## 🌐 Live Demo
 
-Coming soon
+|                 | URL                                         |
+| --------------- | ------------------------------------------- |
+| **Frontend**    | https://service-board-backend.onrender.com/ |
+| **Backend API** | https://service-board-navy.vercel.app/      |
 
 ---
 
