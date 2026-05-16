@@ -17,7 +17,7 @@ export default function Navbar() {
     <nav className="bg-blue-700 text-white px-6 py-4 shadow-md">
       <div className="max-w-5xl mx-auto flex items-center justify-between">
         <Link href="/" className="text-xl font-bold tracking-tight">
-          🔧 GlobalTNA Service Board
+          🔧 Service Board
         </Link>
 
         <div className="flex items-center gap-3">
