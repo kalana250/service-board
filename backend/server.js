@@ -13,7 +13,6 @@ const app = express();
 // ─── CORS - allow localhost AND vercel ───────────────────────────────────────
 const allowedOrigins = [
   "http://localhost:3000",
-  "https://service-board.vercel.app",
   // Add any other vercel preview URLs you have
 ];
 
