@@ -39,7 +39,7 @@ app.use("/api/jobs", jobRoutes);
 app.use("/api/auth", authRoutes);
 
 app.get("/", (req, res) => {
-  res.json({ message: "GlobalTNA API is running ✅" });
+  res.json({ message: "🚀 API is running ✅" });
 });
 
 app.use((req, res, next) => {
