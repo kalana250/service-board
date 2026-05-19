@@ -9,8 +9,8 @@ and tradespeople can browse, update, and manage them.
 
 |                 | URL                                         |
 | --------------- | ------------------------------------------- |
-| **Frontend**    | https://service-board-backend.onrender.com/ |
-| **Backend API** | https://service-board-navy.vercel.app/      |
+| **Backend**    | https://service-board-backend.onrender.com/ |
+| **Frontend** | https://service-board-navy.vercel.app/      |
 
 ---
 
